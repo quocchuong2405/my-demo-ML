@@ -1,2 +1,2 @@
-# my-demo-ML
-My demo for some machine learning algorithms using sklearn.
+# ML algorithms demo
+My demo for some machine learning algorithms.
